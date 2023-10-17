@@ -44,7 +44,7 @@ class Llama(AbstractFunction):
     results = []
 
     for query in queries:
-      prompt = query + content[0]
+      prompt = query + ' '.join(content)
       response = self.model.create_completion(
         prompt=prompt,
         max_tokens=100
