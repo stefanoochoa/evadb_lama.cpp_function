@@ -21,8 +21,8 @@ To interface with the model, I utilized the lama.cpp library https://github.com/
 
 
 ## References
-Installing the EvaDB Model: https://github.com/cocktailpeanut/dalai#quickstart
-llama.cpp: https://github.com/ggerganov/llama.cpp
-llama.cpp python bindings: https://github.com/abetlen/llama-cpp-python
-EvaDB documentation: https://evadb.readthedocs.io/en/stable/index.html
-EvaDB functions: shortened link
+- Installing the EvaDB Model: https://github.com/cocktailpeanut/dalai#quickstart
+- llama.cpp: https://github.com/ggerganov/llama.cpp
+- llama.cpp python bindings: https://github.com/abetlen/llama-cpp-python
+- EvaDB documentation: https://evadb.readthedocs.io/en/stable/index.html
+- EvaDB functions: https://evadb.readthedocs.io/en/latest/source/reference/ai/custom-ai-function.html
